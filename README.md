@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kaushal+Savaliya!;" />
 </h1>
 
-<h3 align="center">🚀 AI/ML Engineer | Data Science Enthusiast | Problem Solver</h3>
+<h3 align="center">AI/ML Engineer | Data Science Enthusiast | Problem Solver</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kaushal090306&color=blueviolet&style=flat-square&label=Profile+Views" />
@@ -39,7 +39,7 @@
 
 <br/>
 
-## 🏆 Competitive Programming
+##  Competitive Programming
 
 <div align="center">
 
@@ -71,14 +71,11 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/kaushal-savaliya" target="_blank">
+  <a href="https://www.linkedin.com/in/kaushal-savaliya-8404a9286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://kaggle.com/kaushal-savaliya" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/kaushal_savaliya" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:kaushalsavaliya2627@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -90,7 +87,6 @@
 ---
 
 <div align="center">
-  <h3>⭐ Don't forget to star repositories you find interesting! ⭐</h3>
   <p>
     <i>"The best way to predict the future is to invent it." - Alan Kay</i>
   </p>
