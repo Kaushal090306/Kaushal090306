@@ -43,8 +43,8 @@
 
 <div align="center">
 
-| Platform | Profile | Rating/Rank |
-|----------|---------|------------|
+| Platform | Profile |
+|----------|---------|
 | 🟡 **CodeChef** | [@kaushal_063](https://www.codechef.com/users/kaushal_063) 
 | 🟢 **HackerRank** | [@23aiml063](https://www.hackerrank.com/23aiml063) 
 | 🔵 **Codeforces** | [@kaushalsavaliya2627](https://codeforces.com/profile/kaushalsavaliya2627) 
@@ -67,18 +67,6 @@
 
 <br/>
 
-## 🎯 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/kaushal090306/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushal090306&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/kaushal090306/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushal090306&repo=project2&theme=radical" />
-  </a>
-</div>
-
-<br/>
 
 ## 🌐 Connect With Me
 
@@ -99,13 +87,6 @@
 
 <br/>
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/kaushal090306/kaushal090306/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
